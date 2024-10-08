@@ -1,6 +1,6 @@
 import GridCart from "./GridCart";
 
-function Grid() {
+const Grid=()=> {
   return (
     <div className="w-[100%]  bg-[white] flex justify-center flex-wrap gap-[19px]">
       <GridCart

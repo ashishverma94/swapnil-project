@@ -1,4 +1,4 @@
-function Preorder() {
+const Preorder=()=> {
   return (
     <>
       <div className="w-[100%] h-[74px] bg-[white] p-[10px]">
