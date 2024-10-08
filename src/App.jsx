@@ -1,6 +1,6 @@
 
 import "./App.css";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import Grid from "./components/Grid";
 import Categories from "./components/Categories";
 import Preorder from "./components/Preorder";
@@ -16,7 +16,7 @@ function App() {
       <Categories />
       <Grid />
       <Preorder />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
