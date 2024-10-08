@@ -1,6 +1,5 @@
-
+import Footer from "./components/Footer" ;
 import "./App.css";
-// import Footer from "./components/Footer";
 // import Grid from "./components/Grid";
 // import Categories from "./components/Categories";
 // import Preorder from "./components/Preorder";
@@ -16,7 +15,7 @@ function App() {
       <Categories />
       <Grid />
       <Preorder /> */}
-      {/* <Footer /> */}
+      <Footer/>
       <span className="text-[25px] font-bold">Hello from Home Page</span>
     </div>
   );
