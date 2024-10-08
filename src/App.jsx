@@ -1,4 +1,4 @@
-import Footer from "./components/Footer.jsx" ;
+import {Footer} from "./components/Footer.jsx" ;
 import "./App.css";
 // import Grid from "./components/Grid";
 // import Categories from "./components/Categories";

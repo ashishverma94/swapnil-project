@@ -1,6 +1,6 @@
 import React from "react";
 
-const  Footer=()=> {
+export const Footer =()=> {
   return (
     <div className="w-[100%] bg-[#F0F0F0] flex justify-center items-center h-[282px] gap-[67px]">
       <div className="w-[300px] font-[poppins]  h-[115px] bg-[#F0F0F0] flex justify-flex flex-col gap-[25px]">
@@ -40,4 +40,3 @@ const  Footer=()=> {
     </div>
   );
 }
-export default Footer;
